@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hyeeVaibhav/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1021-remove-outermost-parentheses](https://github.com/hyeeVaibhav/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hyeeVaibhav/leetcode-solutions/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hyeeVaibhav/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hyeeVaibhav/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
